@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Can Bayram
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Java language
+- 🌱 I’m currently learning C# language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yusufcannbayramm@gmail.com
 
